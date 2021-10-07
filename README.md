@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @igoranholeto
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on software projects
-- 📫 How to reach me +55 (11) 96625-6464
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoranholeto&show_icons=true&theme=dark)
+
+
 
 <!---
 igoranholeto/igoranholeto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<div style="display: inline-block;">
+	<img align="center" alt="IgorHTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+	<img align="center" alt="IgorCSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+	<img align="center" alt="IgorJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+
+
+
+  
