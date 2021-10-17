@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 	<img align="center" alt="IgorHTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 	<img align="center" alt="IgorCSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 	<img align="center" alt="IgorJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+	<img align="center" alt="IgorJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
 </div>
 
 
